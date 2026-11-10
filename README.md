@@ -6,8 +6,8 @@ I'm interested in redesigning how everyday business work gets done with AI. My r
 
 **Projects**
 
-- [weekly-sales-report](https://github.com/YOUR-USERNAME/weekly-sales-report): an AI agent skill that turns an online shop's orders export into a reviewed, ready-to-present PowerPoint deck.
-- [product-catalog-pipeline](https://github.com/YOUR-USERNAME/product-catalog-pipeline): new products in, a priced, described, translated and validated shop import file out, with a person signing off.
+- [weekly-sales-report](https://github.com/iamwlady/weekly-sales-report): an AI agent skill that turns an online shop's orders export into a reviewed, ready-to-present PowerPoint deck.
+- [product-catalog-pipeline](https://github.com/iamwlady/product-catalog-pipeline): new products in, a priced, described, translated and validated shop import file out, with a person signing off.
 
 **What I work with:** product ownership (roadmaps, backlogs, user stories), process redesign, agentic AI workflows, Python, HTML/CSS/JS, Jira.
 
